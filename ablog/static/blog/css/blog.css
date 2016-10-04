@@ -10,6 +10,9 @@ h1 a{
 #post_title a{
     font-family: 'Lalezar', sans-serif;
 }
+#post_title{
+    font-family: 'Lalezar', sans-serif;
+}
 body{
     padding-left: 15px;
 }
